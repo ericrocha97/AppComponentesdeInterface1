@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Componentes de Interface 1</string>
+    <string name="nome_do_produto">Nome do produto</string>
+    <string name="bt_enviar">Enviar</string>
+    <string name="tvResultado">Resultado</string>
+    <string name="tx_cores">Cores</string>
+    <string name="cb_braco">Branco</string>
+    <string name="cbverde">Verde</string>
+    <string name="cbazul">Azul</string>
+    <string name="dispon_vel_em_estoque">Disponível em estoque?</string>
+    <string name="sim">Sim</string>
+    <string name="n_o">Não</string>
+</resources>
